@@ -2,3 +2,7 @@ This is a basic devops file.
 
 
 This is an update!!!
+
+
+
+This line only appears in NewBranch and not in master.
